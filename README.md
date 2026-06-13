@@ -27,10 +27,10 @@ Using the same or compatible versions is recommended to ensure reproducible resu
 - PyMongo
 
 ## How to Run
-1. Start Cassandra
-2. Start Spark
-3. Upload dataset to HDFS
-4. Open notebook
+1. Start PuTTY
+2. Download and upload dataset to HDFS
+3. Open .ipynb notebook via Google Collab
+4. Follow the steps mentioned in the notebook
 5. Run cells sequentially
 
 ## Results
@@ -42,3 +42,36 @@ genre based on the genre they rated most frequently.
 4. Find all users who are less than 20 years old.
 5. Find all users whose occupation is “scientist” and whose age is between 30 and 40 years
 old.
+
+Datasets used in the project:
+* users.csv
+* ratings.csv
+* movies.csv
+* movie_avg_rating_with_title.csv
+* top_10_movies_ratingcounts.csv
+* favourite_genre.csv
+* young_users.csv
+* scientist_30_40.csv
+
+Output Images used in the project:
+* putty1.jpeg
+* putty2.jpeg
+* putty3.jpeg
+* putty4.jpeg
+* putty5.jpeg
+* putty6.jpeg
+* putty7.jpeg
+* putty8.jpeg
+* putty9.jpeg
+* putty10.jpeg
+* putty11.jpeg
+* putty12.jpeg
+* putty13.jpeg
+* putty14.jpeg
+* putty15.jpeg
+* putty16.jpeg
+* putty17.jpeg
+* putty18.jpeg
+* putty19.jpeg
+* putty20.jpeg
+* putty21.jpeg
