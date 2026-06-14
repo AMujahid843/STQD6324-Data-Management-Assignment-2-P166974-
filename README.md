@@ -1,5 +1,8 @@
 # STQD6324-Data-Management-Assignment-2-P166974-
 
+## Preview
+This project is about a Python based data pipeline using Apache Spark and Cassandra to perform a series of analytical tasks on the MovieLens 100k Dataset.
+
 ## Software Requirements
 The project was developed and tested using the following software versions:
 - Python: 3.12.13
@@ -42,6 +45,9 @@ genre based on the genre they rated most frequently.
 4. Find all users who are less than 20 years old.
 5. Find all users whose occupation is “scientist” and whose age is between 30 and 40 years
 old.
+
+Commands and codes executed in PuTTY:
+* stqd6324_assignment2_p166974.py
 
 Datasets used in the project:
 * users.csv
