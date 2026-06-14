@@ -5,7 +5,7 @@ The project was developed and tested using the following software versions:
 - Python: 3.12.13
 - Apache Spark: 4.0.2
 - PySpark: 4.0.2
-- Cassandra: 5.x
+- Cassandra: 3.0.9
 - MongoDB: 8.0
 - PyMongo: 4.17.0
 
